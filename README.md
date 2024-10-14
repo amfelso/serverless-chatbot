@@ -11,7 +11,7 @@ My specific objectives in this project:
 
 ### Project Architecture
 
-
+![000-architecture](https://github.com/user-attachments/assets/39f5e1a3-02dc-4e1f-ba2f-f7297a5aa321)
 
 <!-- GETTING STARTED -->
 ## Getting Started
